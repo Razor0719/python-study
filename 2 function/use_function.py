@@ -1,0 +1,11 @@
+print(abs(10))
+print(abs(-20))
+print(max(1,-5,3,6))
+print(int('123'))
+print(int(12.34))
+print(float('12.34'))
+print(str(12.34))
+print(bool(1))
+print(bool(''))
+# 16进制
+print(hex(255))
